@@ -17,6 +17,7 @@ Hi there 👋<br>I'm Mateusz from Poland. I am a mechanical engineer transitioni
 # 📂 Portfolio Projects
 
 ## Project 1: [E-store admin panel](https://github.com/MateuszWiktorowicz/store-admin-panel.git)
+Press picture to see video on youtube!
 [![Watch the video](https://img.youtube.com/vi/Kz5ozk2QxD4/maxresdefault.jpg)](https://youtu.be/Kz5ozk2QxD4)   
 **Description:** Online store admin panel application written in PHP using Symfony.
 
@@ -29,11 +30,13 @@ Hi there 👋<br>I'm Mateusz from Poland. I am a mechanical engineer transitioni
 
 
 ## Project 2: [Regrinding Calculator](https://github.com/MateuszWiktorowicz/regrinding-calc-react.git)
-[![Watch the video](https://img.youtube.com/vi/76X1VWFbyt8/maxresdefault.jpg)](https://youtu.be/76X1VWFbyt8)   
+Press picture to see video on youtube!
+[![Watch the video](kalkulator-ostrzenia-app-picture.png)](https://youtu.be/76X1VWFbyt8)   
 **Description:** Application for calculating the costs of regeneration of cutting tools. Written using JavaScript and React. Receives data from a REST API created with Symfony.
 <br>
 
 ## Project 3: [Personal Finances](https://github.com/MateuszWiktorowicz/PersonalFinancesMVC.git)
+Press picture to see video on youtube!
 [![Watch the video](https://img.youtube.com/vi/mnjAauvoRr4/maxresdefault.jpg)](https://youtu.be/mnjAauvoRr4)   
 **Description:** A home budget management application written in JavaScript and PHP with the creation of your own MVC framework.
 
@@ -46,7 +49,8 @@ Hi there 👋<br>I'm Mateusz from Poland. I am a mechanical engineer transitioni
 
 
 ## Project 4: [Personal Finances C++](https://github.com/MateuszWiktorowicz/financeApp.git)
-[![Watch the video](https://img.youtube.com/vi/bdlKbMVMR4o/maxresdefault.jpg)](https://youtu.be/bdlKbMVMR4o)   
+Press picture to see video on youtube!
+[![Watch the video](finance-app-picture.png)](https://youtu.be/bdlKbMVMR4o)   
 **Description:** Financial application written in object-oriented C++. In the application, you can create a user account, add and view income and expenses.
 <br>
 
